@@ -41,7 +41,7 @@ on its own is a type of distributed version control system. So you can think of 
 local memory stick to save versions of work. Whereas GitHub is a memory stick you can save on the internet for
 your collaborators to access your work also. 
 
-
+![](github_git_diagram.png)
 
 ### Benefits of version control
 
